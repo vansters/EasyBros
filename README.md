@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MusicStore (Java Sockets)
 **Simple project communication via (PIC + USB + Java)**
 
@@ -24,9 +23,4 @@ Simple project communication via (PIC + USB + Java)
 ## <a name='license'>License</a>
 
 **Public Domain**
-=======
-EasyBros
-========
 
-Simple project communication via (PIC + USB + Java)
->>>>>>> eff13dda597345b5ccee0c214e6c8162ac5d84d9
