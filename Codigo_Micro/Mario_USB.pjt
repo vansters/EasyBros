@@ -1,0 +1,26 @@
+[PROJECT]
+Target=C:\Users\vans\Desktop\EasyBros_B\Codigo_Micro\Mario_USB.hex
+Development_Mode=
+Processor_Text=PIC18F2550
+ToolSuite=CCS
+Processor=0x2550
+[C:\Users\vans\Desktop\EasyBros_B\Codigo_Micro\Mario_USB]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=C:\Users\vans\Desktop\EasyBros_B\Codigo_Micro\Mario_USB.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=C:\Users\vans\Desktop\EasyBros_B\Codigo_Micro\Mario_USB
+[Opened Files]
+1=Mario_USB.c
+2=
+3=
+4=

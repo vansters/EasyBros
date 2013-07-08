@@ -1,0 +1,11 @@
+>>> Warning 203 "C:\Program Files\PICC\drivers\pic18_usb.c" Line 531(1,1): Condition always TRUE
+>>> Warning 230 "Mario_USB.c" Line 17(21,22): String truncated
+>>> Warning 230 "Mario_USB.c" Line 18(21,22): String truncated
+>>> Warning 230 "Mario_USB.c" Line 19(21,22): String truncated
+>>> Warning 230 "Mario_USB.c" Line 20(21,22): String truncated
+>>> Warning 216 "Mario_USB.c" Line 89(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_token_reset)
+>>> Warning 216 "Mario_USB.c" Line 89(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_flush_out)
+>>> Warning 216 "Mario_USB.c" Line 89(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_tbe)
+>>> Warning 216 "Mario_USB.c" Line 89(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_flush_in)
+      Memory usage:   ROM=12%      RAM=14% - 15%
+      0 Errors,  9 Warnings.
