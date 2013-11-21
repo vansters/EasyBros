@@ -1,4 +1,4 @@
-# MusicStore (Java Sockets)
+# Easy Bros (Java)
 **Simple project communication via (PIC + USB + Java)**
 
 ## <a name='TOC'>Table of Contents</a>
